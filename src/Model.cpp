@@ -19,6 +19,7 @@ void BSModel::Initialize(){
     
     if(model==0){       //setting all Higgs couplings manuallys
         P11=1, P12=0;
+        gHCC=0;
     }
     else if(model==1){  //2HDM Type-I
         xiAuu=xiAcc=xiAtt=1/tanb;

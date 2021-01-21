@@ -18,7 +18,7 @@ private:
     //              2, 2HDM Type-II;
     //              3, 2HDM Type-L;
     //              4, 2HDM Type-F;
-    //              5, MSSSM;
+    //              5, MSSM;
     //              6, NMSSM;
     int model=6;
     
